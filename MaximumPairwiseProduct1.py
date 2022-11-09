@@ -1,4 +1,7 @@
-#Goal: Implement a program that reads two digits from the standard input and prints their sum to the standard output.
+#Goal: Maximum Pairwise Product
+#Requirement: Working in less than one second even on huge datasets
+#!/usr/bin/env python
+# coding: utf-8
 
 
 def max_pairwise_product(numbers):
