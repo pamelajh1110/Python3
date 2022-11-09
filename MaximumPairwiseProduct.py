@@ -1,9 +1,8 @@
-#Goal: Maximum Pairwise Product
-#Requirement: Working in less than one second even on huge datasets
+#Goal: Fibonacci Number
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[54]:
+# In[1]:
 
 
 import numpy as np
