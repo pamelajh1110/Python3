@@ -1,3 +1,6 @@
+#Goal: Implement a program that reads two digits from the standard input and prints their sum to the standard output.
+
+
 def max_pairwise_product(numbers):
     n = len(numbers)
     numbers.sort()
