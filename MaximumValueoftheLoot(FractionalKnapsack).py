@@ -1,3 +1,13 @@
+#Maximum Value of the Loot (Fractional Knapsack)
+
+#Maximizing the Value of the Loot Problem
+#Find the maximal value of items that fit into the backpack.
+
+#Input: The capacity of a back- pack W as well as the weights (w1,...,wn) and costs (c1,...,cn) of n different compounds.
+#Output: The maximum total value of fractions of items that fit into the backpack of the given capacity:
+#i.e., the maximum value of c1 ·f1 +· · ·+cn · fn such that w1 ·f1 +···+wn ·fn ≤ W and 0≤fi ≤1 for all i
+#(fi is the fraction of the i-th item taken to the backpack).
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -45,6 +55,16 @@ if __name__ == '__main__':
         
     print(maxcost(p,q,a,b))
 
+
+    
+#Input:
+3 50
+60 20
+100 50
+120 30
+
+#Output:
+180.0000
 
 # In[ ]:
 
