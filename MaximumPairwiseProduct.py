@@ -1,3 +1,5 @@
+#Goal: Maximum Pairwise Product
+#Requirement: Working in less than one second even on huge datasets
 #!/usr/bin/env python
 # coding: utf-8
 
