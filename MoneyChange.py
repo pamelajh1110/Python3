@@ -1,3 +1,6 @@
+#Money Change
+#Compute the minimum number of coins needed to change the given value into coins with denominations 1, 5, and 10.
+#Using Greedy Algorithm
 #!/usr/bin/env python
 # coding: utf-8
 
