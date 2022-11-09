@@ -1,4 +1,4 @@
-#Goal: Fibonacci Number
+#Goal: Last Digit of a Large Fibonacci Number
 #!/usr/bin/env python
 # coding: utf-8
 
